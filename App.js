@@ -161,7 +161,8 @@ const styles = StyleSheet.create({
   },
   textStyles3 : {
     color :'#FFFFFF',
-    fontWeight : 'Bold'
+    fontWeight : 'Bold',
+    fontStyle : "italic"
   },
   dropdownContainer: {
     flexDirection: 'row',
